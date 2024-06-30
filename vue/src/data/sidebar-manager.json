@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "菜品",
+      "icon": "el-icon-fork-spoon",
+      "spellname": "managerDish",
+      "roter": "/manager/dish"
+    },
+    {
+      "id": 2,
+      "title": "类型",
+      "icon": "el-icon-collection-tag",
+      "spellname": "managerType",
+      "roter": "/manager/type"
+    },
+    {
+      "id": 3,
+      "title": "订单",
+      "icon": "el-icon-tickets",
+      "spellname": "managerOrder",
+      "roter": "/manager/order"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "首页",
+      "icon": "el-icon-fork-spoon",
+      "spellname": "home",
+      "roter": "/"
+    },
+    {
+      "id": 2,
+      "title": "购物车",
+      "icon": "el-icon-shopping-cart-2",
+      "spellname": "cart",
+      "roter": "/cart"
+    },
+    {
+      "id": 3,
+      "title": "订单",
+      "icon": "el-icon-tickets",
+      "spellname": "order",
+      "roter": "/order"
+    },
+    {
+      "id": 4,
+      "title": "个人",
+      "icon": "el-icon-user",
+      "spellname": "info",
+      "roter": "/info"
+    },
+    {
+      "id": 5,
+      "title": "地址",
+      "icon": "el-icon-house",
+      "spellname": "address",
+      "roter": "/address"
+    }
+  ]
+}
